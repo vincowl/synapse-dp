@@ -1,3 +1,5 @@
+![foo](https://github.com/vincowl/synapse-dp/actions/workflows/dockerhub.yml/badge.svg)
+
 # Synapse Docker including Double Puppeting module
 
 This image is based on [matrixdotorg/synapse](https://hub.docker.com/r/matrixdotorg/synapse) and uses [devture/matrix-synapse-shared-secret-auth](https://github.com/devture/matrix-synapse-shared-secret-auth).
